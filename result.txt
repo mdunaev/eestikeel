@@ -1,0 +1,710 @@
+0 - on
+1 - ja
+2 - et
+3 - ei
+4 - ka
+5 - kui
+6 - see
+7 - ning
+8 - oli
+9 - aga
+10 - mis
+11 - ta
+12 - siis
+13 - eesti
+14 - oma
+15 - seda
+16 - või
+17 - ma
+18 - nii
+19 - kes
+20 - selle
+21 - väga
+22 - me
+23 -
+24 - ole
+25 - ütles
+26 - kuid
+27 - –
+28 - juba
+29 - kus
+30 - pole
+31 - mida
+32 - aasta
+33 - aastal
+34 - välja
+35 - veel
+36 - kas
+37 - meie
+38 - nad
+39 - üle
+40 - tema
+41 - olnud
+42 - nende
+43 - võib
+44 - kõik
+45 - palju
+46 - sõnul
+47 - sest
+48 - tuleb
+49 - need
+50 - üks
+51 - vaid
+52 - pärast
+53 - nagu
+54 - kuidas
+55 - saab
+56 - vastu
+57 - näiteks
+58 - mitte
+59 - eest
+60 - neid
+61 - rohkem
+62 - oleks
+63 - ehk
+64 - nüüd
+65 - euroopa
+66 - mille
+67 - kõige
+68 - ära
+69 - olla
+70 - sellest
+71 - sai
+72 - teha
+73 - kaks
+74 - meil
+75 - rääkis
+76 - kokku
+77 - midagi
+78 - praegu
+79 - tagasi
+80 - olid
+81 - protsenti
+82 - venemaa
+83 - kohta
+84 - seal
+85 - jaoks
+86 - enam
+87 - ajal
+88 - ise
+89 - läbi
+90 - aastat
+91 - kuni
+92 - lisas
+93 - peab
+94 - kindlasti
+95 - eestis
+96 - küll
+97 - peale
+98 - siin
+99 - peaks
+100 - saa
+101 - enne
+102 - olen
+103 - võimalik
+104 - kogu
+105 - ühe
+106 - inimesed
+107 - selles
+108 - samuti
+109 - hea
+110 - ette
+111 - ainult
+112 - minu
+113 - saanud
+114 - jooksul
+115 - koos
+116 - oleme
+117 - vene
+118 - kuna
+119 - siiski
+120 - tegelikult
+121 - tallinna
+122 - osa
+123 - just
+124 - enda
+125 - edasi
+126 - eurot
+127 - puhul
+128 - poolt
+129 - ega
+130 - ju
+131 - kolm
+132 - riigi
+133 - isegi
+134 - olema
+135 - usa
+136 - teise
+137 - sõnas
+138 - kell
+139 - korda
+140 - maailma
+141 - samas
+142 - alla
+143 - viis
+144 - suur
+145 - vaja
+146 - lisaks
+147 - sel
+148 - hästi
+149 - lihtsalt
+150 - mul
+151 - sellega
+152 - kahe
+153 - aega
+154 - jääb
+155 - varem
+156 - tuli
+157 - alati
+158 - selleks
+159 - seotud
+160 - iga
+161 - kaasa
+162 - miljonit
+163 - inimeste
+164 - vahel
+165 - saada
+166 - sama
+167 - ukraina
+168 - tõttu
+169 - tartu
+170 - uue
+171 - ikkagi
+172 - raha
+173 - selline
+174 - elu
+175 - järgi
+176 - päris
+177 - ikka
+178 - võiks
+179 - punkti
+180 - sellele
+181 - juurde
+182 - kelle
+183 - kuigi
+184 - täna
+185 - hiljem
+186 - miks
+187 - liiga
+188 - öelda
+189 - neil
+190 - läheb
+191 - umbes
+192 - jäi
+193 - teatas
+194 - teine
+195 - poole
+196 - üles
+197 - end
+198 - pigem
+199 - selgitas
+200 - hetkel
+201 - ees
+202 - valmis
+203 - mängu
+204 - teinud
+205 - sa
+206 - inimesi
+207 - juhul
+208 - tähendab
+209 - arvan
+210 - the
+211 - võtta
+212 - sinna
+213 - tegemist
+214 - teeb
+215 - korral
+216 - tegi
+217 - järel
+218 - alates
+219 - tehtud
+220 - lõpuks
+221 - olemas
+222 - valitsus
+223 - pea
+224 - vähemalt
+225 - saavad
+226 - esimese
+227 - president
+228 - 20
+229 - liidu
+230 - esimene
+231 - alles
+232 - üldse
+233 - seega
+234 - lausus
+235 - te
+236 - valitsuse
+237 - minutil
+238 - hinnangul
+239 - kunagi
+240 - oluline
+241 - teiste
+242 - teada
+243 - mulle
+244 - 000
+245 - eriti
+246 - neile
+247 - võibolla
+248 - aru
+249 - jäänud
+250 - märkis
+251 - uus
+252 - soome
+253 - 15
+254 - toimub
+255 - riik
+256 - tal
+257 - kohal
+258 - sisse
+259 - kohe
+260 - seetõttu
+261 - päeva
+262 - viimase
+263 - minna
+264 - neist
+265 - keegi
+266 - aja
+267 - pool
+268 - aeg
+269 - neli
+270 - inimene
+271 - hoopis
+272 - näha
+273 - koha
+274 - all
+275 - teda
+276 - läks
+277 - 12
+278 - töö
+279 - septembril
+280 - seas
+281 - hiina
+282 - seni
+283 - inimese
+284 - üsna
+285 - ülikooli
+286 - mina
+287 - 11
+288 - suure
+289 - maha
+290 - inimest
+291 - annab
+292 - juht
+293 - võivad
+294 - ilma
+295 - asi
+296 - ent
+297 - 10
+298 - kolme
+299 - võitis
+
+
+===============================
+
+
+0 - ei ole
+1 - see on
+2 - ei saa
+3 - kui ka
+4 - mis on
+5 - et see
+6 - on see
+7 - ma ei
+8 - on ka
+9 - on väga
+10 - kes on
+11 - et kui
+12 - on olnud
+13 - sõnul on
+14 - ja see
+15 - ei olnud
+16 - me ei
+17 - et ta
+18 - ta on
+19 - see ei
+20 - meil on
+21 - et nad
+22 - see oli
+23 - ma arvan
+24 - miljonit eurot
+25 - on võimalik
+26 - et me
+27 - ma olen
+28 - kui me
+29 - on juba
+30 - aastat tagasi
+31 - ei tea
+32 - siis on
+33 - ja kui
+34 - me oleme
+35 - on vaja
+36 - nii et
+37 - ja selle
+38 - ja siis
+39 - ja ka
+40 - samal ajal
+41 - on aga
+42 - väga palju
+43 - on ta
+44 - euroopa liidu
+45 - aga see
+46 - on nii
+47 - on eesti
+48 - autor allikas:
+49 - rohkem kui
+50 - et eesti
+51 - ei pea
+52 - et ma
+53 - on üks
+54 - ta ei
+55 - kui see
+56 - kui ta
+57 - võib olla
+58 - tartu ülikooli
+59 - mul on
+60 - need on
+61 - et ei
+62 - aga ka
+63 - lisas ta
+64 - ja ma
+65 - eesmärk on
+66 - seal on
+67 - aasta jooksul
+68 - kui palju
+69 - nüüd on
+70 - et on
+71 - nii palju
+72 - siis see
+73 - et tema
+74 - esimest korda
+75 - on oma
+76 - ja seda
+77 - kus on
+78 - see tähendab
+79 - ja eesti
+80 - nad on
+81 - tegemist on
+82 - on alati
+83 - ütles ta
+84 - ei saanud
+85 - ja on
+86 - ja nende
+87 - oli see
+88 - järgmisel aastal
+89 - kui on
+90 - et ka
+91 - kas see
+92 - ei tohi
+93 - kui ma
+94 - aga ma
+95 - praegu on
+96 - on meil
+97 - seda ei
+98 - on ju
+99 - jaoks on
+100 - on hea
+101 - väga hea
+102 - nad ei
+103 - on meie
+104 - ja tema
+105 - on olemas
+106 - ei taha
+107 - miljoni euro
+108 - on nüüd
+109 - et kõik
+110 - et need
+111 - minu jaoks
+112 - et nende
+113 - on selle
+114 - siin on
+115 - pärast seda
+116 - enam kui
+117 - on palju
+118 - ja me
+119 - tema sõnul
+120 - ei oska
+121 - ei pruugi
+122 - on praegu
+123 - et seda
+124 - puhul on
+125 - on seotud
+126 - mitte ainult
+127 - aga kui
+128 - on veel
+129 - ja ta
+130 - neil on
+131 - et meie
+132 - rääkis ta
+133 - siis ma
+134 - seda on
+135 - sõnul ei
+136 - mis ei
+137 - ka eesti
+138 - on kõik
+139 - kogu aeg
+140 - sest see
+141 - kui nad
+142 - järgmise aasta
+143 - ta ja
+144 - on ikkagi
+145 - kes ei
+146 - ja lisas
+147 - on oluline
+148 - on tema
+149 - ja mis
+150 - sõnas ta
+151 - et meil
+152 - sel aastal
+153 - samuti on
+154 - mida me
+155 - selle kohta
+156 - ei oleks
+157 - on küll
+158 - ta oli
+159 - ei tule
+160 - et selle
+161 - on seda
+162 - kõik on
+163 - siis me
+164 - muu hulgas
+165 - ei lähe
+166 - on kõige
+167 - on saanud
+168 - ja nii
+169 - samas on
+170 - ei suuda
+171 - on siin
+172 - peab olema
+173 - ka see
+174 - ja kuidas
+175 - ka seda
+176 - siis ei
+177 - kus ta
+178 - peaks olema
+179 - küll aga
+180 - oli ka
+181 - mida on
+182 - väga hästi
+183 - kellel on
+184 - me peame
+185 - kõige rohkem
+186 - on tegemist
+187 - selles mõttes
+188 - ma usun
+189 - aga ei
+190 - oli väga
+191 - on selline
+192 - eesti on
+193 - seega on
+194 - et venemaa
+195 - on siiski
+196 - on selles
+197 - ning on
+198 - on tegelikult
+199 - mida ma
+
+
+===============================
+
+
+0 - et see on
+1 - see ei ole
+2 - ja see on
+3 - ma ei ole
+4 - ma ei tea
+5 - me ei saa
+6 - et ta on
+7 - see on väga
+8 - et ta ei
+9 - kas see on
+10 - et meil on
+11 - aga see on
+12 - ei ole võimalik
+13 - ei ole veel
+14 - et me ei
+15 - ma ei saa
+16 - ta ja lisas
+17 - vastab tartu ülikooli
+18 - miljoni euro võrra
+19 - sest see on
+20 - et nad on
+21 - eesti aja järgi
+22 - ei ole enam
+23 - ta ei ole
+24 - on väga palju
+25 - on väga hea
+26 - ei ole ka
+27 - et nad ei
+28 - et ma ei
+29 - ei ole olnud
+30 - see on ka
+31 - et tegemist on
+32 - me ei ole
+33 - ja ma ei
+34 - nii palju kui
+35 - sõnul ei ole
+36 - siis see on
+37 - meil ei ole
+38 - ei ole kunagi
+39 - aga see ei
+40 - ja ma arvan
+41 - ei saa öelda
+42 - on hea meel
+43 - aga ma ei
+44 - mis ei ole
+45 - et see ei
+46 - ei ole nii
+47 - me ei tea
+48 - mul ei ole
+49 - ei oska öelda
+50 - jaoks on see
+51 - et seal on
+52 - see on üks
+53 - minu jaoks on
+54 - ei ole see
+55 - .5 miljonit eurot
+56 - kirjutab soccernet .ee
+57 - see ei tähenda
+58 - kui me vaatame
+59 - aja järgi kell
+60 - kaks aastat tagasi
+61 - ei saa olla
+62 - on viimasel ajal
+63 - on alati olnud
+64 - see ei olnud
+65 - ja kui palju
+66 - ja mis on
+67 - ei ole ju
+68 - ma ei oska
+69 - ei ole midagi
+70 - ei ole vaja
+71 - on ka see
+72 - 100 000 elaniku
+73 - 000 elaniku kohta
+74 - see on meie
+75 - et see oli
+76 - varem või hiljem
+77 - .ee võtab arvamusartikleid
+78 - võtab arvamusartikleid ja
+79 - arvamusartikleid ja lugejakirju
+80 - ja lugejakirju vastu
+81 - õigus otsustada artikli
+82 - otsustada artikli või
+83 - artikli või lugejakirja
+84 - või lugejakirja avaldamise
+85 - lugejakirja avaldamise üle
+86 - avaldamise üle on
+87 - üle on toimetusel
+88 - siis ei ole
+89 - et mul on
+90 - mul on väga
+91 - ei pruugi olla
+92 - ei ole väga
+93 - autor allikas: siim
+94 - allikas: siim lõvi
+95 - samal ajal on
+96 - funktsionaalse genoomika teadur
+97 - genoomika teadur erik
+98 - et see oleks
+99 - et ma olen
+100 - on nii palju
+101 - ei ole seda
+102 - on tema sõnul
+103 - lugejakirju vastu aadressil
+104 - vastu aadressil [emailprotected]
+105 - venemaa ja valgevene
+106 - mille eesmärk on
+107 - et eesti on
+108 - tartu ülikooli peremeditsiini
+109 - peremeditsiini kaasprofessor marje
+110 - kaasprofessor marje oona:
+111 - teadur uku haljasorg:
+112 - teadur erik abner:
+113 - r .a .a
+114 - .a .a .a
+115 - see on see
+116 - väga hea meel
+117 - see on minu
+118 - kui palju on
+119 - tema sõnul on
+120 - aasta jooksul on
+121 - meil on vaja
+122 - et kui ta
+123 - mul on hea
+124 - et ei ole
+125 - ei saa seda
+126 - ei ole mitte
+127 - molekulaarimmunoloogia teadur uku
+128 - vahendab soccernet .ee
+129 - regionaalosakonna jälgimisel on
+130 - president volodõmõr zelenski
+131 - – see on
+132 - ja see oli
+133 - kümme aastat tagasi
+134 - see on nii
+135 - see on olnud
+136 - siis on see
+137 - tõdes ta ja
+138 - seda ei ole
+139 - see on ikkagi
+140 - ja see ei
+141 - ja nüüd on
+142 - see on juba
+143 - et siin on
+144 - mis on seotud
+145 - minu jaoks oli
+146 - sõnas ta ja
+147 - et me oleme
+148 - miljoni euro eest
+149 - et tegu on
+150 - president kersti kaljulaid
+151 - artikli kommentaariumist eemaldatakse
+152 - kommentaariumist eemaldatakse autori
+153 - eemaldatakse autori isikut
+154 - autori isikut ründavad
+155 - isikut ründavad ja
+156 - ründavad ja või
+157 - ja või teemavälised
+158 - libainfot sisaldavad jmt
+159 - sisaldavad jmt kommentaarid
+160 - .a .a .m
+161 - tallinna fc flora
+162 - see kõik on
+163 - ma ei näe
+164 - ja mul on
+165 - ma ei taha
+166 - kes ei ole
+167 - siis ma ei
+168 - .err .ee võtab
+169 - kui me ei
+170 - on vikerraadios eetris
+171 - nii eesti kui
+172 - eesti kui ka
+173 - veel ei ole
+174 - nii et see
+175 - üle kogu maailma
+176 - autor allikas: scanpix
+177 - juba mõnda aega
+178 - ikka ja jälle
+179 - kindlasti ei ole
+180 - ja nii edasi
+181 - on väga suur
+182 - tartu ülikooli kliinikumi
+183 - ülikooli peremeditsiini kaasprofessor
+184 - teadus ja arendustegevuse
+185 - president vladimir putin
+186 - https: t .co
+187 - ja me ei
+188 - ma ei saanud
+189 - on minu jaoks
+190 - ja ta on
+191 - .tema sõnul on
+192 - ma ei usu
+193 - et kui me
+194 - vikerraadio päevakommentaare on
+195 - päevakommentaare on võimalik
+196 - päevakommentaaride lehelt .err
+197 - lehelt .err .ee
+198 - nad ei ole
+199 - .teadusuudised on vikerraadios
